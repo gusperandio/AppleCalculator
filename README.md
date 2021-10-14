@@ -2,7 +2,7 @@
 <br />
 <p align="center">
   <a href="https://github.com/gustavofusco/AppleCalculator">
-    <img src="https://i.pinimg.com/736x/f3/39/4a/f3394a51d16a718b29ca788ef5919d41.jpg" alt="Logo" width="80" height="80">
+    <img src="https://toppng.com/uploads/preview/calculator-icon-ios-7-11530957513dosfiydx37.png" alt="Logo" width="80" height="80">
   </a>
 
   <h3 align="center">Apple Calculator</h3>
