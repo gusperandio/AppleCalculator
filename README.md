@@ -20,7 +20,6 @@
 
 📌 [Sobre o projeto](#sobre-o-projeto)<br />
 📌 [Tecnologias utilizadas](#tecnologias-utilizadas)<br />
-📌 [Iniciando](#iniciando)<br />
 📌 [Licença](#licença)<br />
 📌 [Contato](#contato)<br />
 📌 [Agradecimentos](#agradecimentos)<br />
